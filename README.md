@@ -55,6 +55,8 @@ query{
   }
 }
 ```
+Output
+![alt text](https://i.imgur.com/V0Yg8nO.png)
 
 # Understanding this project
 
